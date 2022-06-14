@@ -2967,7 +2967,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -4625,7 +4625,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 48721e3239a02924d9263fe4039ec5f6,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.32
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 48721e3239a02924d9263fe4039ec5f6,
         type: 3}
@@ -6529,6 +6529,11 @@ PrefabInstance:
       propertyPath: looping
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6639626880696074313, guid: 9d7392fe597a6c941b83286af2a2d6ac,
+        type: 3}
+      propertyPath: playOnAwake
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7984993484901161848, guid: 9d7392fe597a6c941b83286af2a2d6ac,
         type: 3}
       propertyPath: m_RootOrder
@@ -6537,17 +6542,17 @@ PrefabInstance:
     - target: {fileID: 7984993484901161848, guid: 9d7392fe597a6c941b83286af2a2d6ac,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.1509423
+      value: -5.56
       objectReference: {fileID: 0}
     - target: {fileID: 7984993484901161848, guid: 9d7392fe597a6c941b83286af2a2d6ac,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.19
+      value: 0.62
       objectReference: {fileID: 0}
     - target: {fileID: 7984993484901161848, guid: 9d7392fe597a6c941b83286af2a2d6ac,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.95
+      value: 0.25
       objectReference: {fileID: 0}
     - target: {fileID: 7984993484901161848, guid: 9d7392fe597a6c941b83286af2a2d6ac,
         type: 3}
